@@ -7,7 +7,24 @@
           <h3 class="funFont">Hey there, my name is Rhys Vickers</h3>
         </div>
         <div class="d-flex justify-content-center pt-5 mx-3">
-          <p>Coding is something still fairly new in my life. </p>
+          <p class="m-4">Coding is something still fairly new in my life. At an early age I always wanted to become a
+            teacher, so I got my Associates degree in Education at College of Western Idaho. I then went on to Boise State
+            as an Integrated Media Major and in my last semester at Boise State I decided to
+            take a Web
+            Design class. In that class I learned the basics of HTML and CSS and instantly fell in love with coding. I
+            decided that after I got my BA I wanted to continue my education at Boise Codeworks. After an intense 13 week
+            program I have learned so much about the life of a Software Developer and I am incredibly excited to continue
+            my journey through code. </p>
+        </div>
+
+        <div>
+          <h4 class="mx-4 pt-4">My Projects</h4>
+        </div>
+        <div class="col-6 d-flex">
+          <p>Project</p>
+          <p>Project</p>
+          <p>Project</p>
+          <p>Project</p>
         </div>
       </div>
       <!-- SECTION right side bar -->
