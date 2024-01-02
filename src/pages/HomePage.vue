@@ -37,8 +37,12 @@
             <h4 class="funFont">Rhys Vickers</h4>
             <p class="funFont">Software Developer</p>
             <div class="d-flex justify-content-evenly">
-              <i class="mdi mdi-github fs-4" role="button" title="Rhys' Github page!"></i>
-              <i class="mdi mdi-linkedin fs-4" role="button" title="Rhys' LinkedIn"></i>
+              <a href="https://github.com/rsvickers">
+                <i class="mdi mdi-github fs-4" role="button" title="Rhys' Github page!"></i>
+              </a>
+              <a href="https://www.linkedin.com/in/rhys-vickers-5040891ba/">
+                <i class="mdi mdi-linkedin fs-4" role="button" title="Rhys' LinkedIn"></i>
+              </a>
               <i class="mdi mdi-email fs-4" role="button" title="Rhys' Email. Feel Free to email me whenever!"></i>
             </div>
           </div>
