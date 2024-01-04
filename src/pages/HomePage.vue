@@ -32,8 +32,7 @@
         <section class="row">
 
           <div class="text-light">
-            <img class="rounded-pill avatar p-4" src="../assets/img/Rhys-Vickers-4.jpg" alt=""
-              title="Click for a fun fact about Rhys!" role="button">
+            <img class="rounded-pill avatar p-4" src="../assets/img/Rhys-Vickers-4.jpg" alt="" title="Rhys Vickers">
             <h4 class="funFont">Rhys Vickers</h4>
             <p class="funFont">Software Developer</p>
             <div class="d-flex justify-content-evenly">
@@ -55,6 +54,7 @@
   </div>
 </template>
 <script>
+
 export default {
   setup() {
     return {

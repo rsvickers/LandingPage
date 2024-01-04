@@ -5,15 +5,14 @@
   <main>
     <router-view />
   </main>
-  <footer>
-
-  </footer>
+  <FunFact />
 </template>
 
 <script>
 import { computed } from 'vue'
 import { AppState } from './AppState'
 import Navbar from './components/Navbar.vue'
+import { FunFact } from './models/FunFact'
 
 export default {
   setup() {
@@ -21,7 +20,7 @@ export default {
       appState: computed(() => AppState)
     }
   },
-  components: { Navbar }
+  components: { Navbar, FunFact }
 }
 </script>
 <style lang="scss">
