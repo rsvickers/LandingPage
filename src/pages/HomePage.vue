@@ -43,7 +43,8 @@
                 <i class="mdi mdi-linkedin fs-4 " role="button" title="Rhys' LinkedIn"></i>
               </a>
               <a href="">
-                <i class="mdi mdi-email fs-4 " role="button" title="Rhys' Email. Feel Free to email me whenever!"></i>
+                <i class="mdi mdi-email fs-4 " role="button"
+                  title="rs.vickers5@gmail.com Feel free to email anytime."></i>
               </a>
             </div>
           </div>
