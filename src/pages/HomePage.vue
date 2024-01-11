@@ -1,5 +1,5 @@
 <template>
-  <div>I am starting over. I have a better idea</div>
+  <div>I am starting over. I have a better idea But I am trying out my new keyboard!</div>
 </template>
 <!-- <div class="d-flex justify-content-evenly">
   <a href="https://github.com/rsvickers">
