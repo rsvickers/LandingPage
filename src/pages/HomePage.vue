@@ -1,5 +1,11 @@
 <template>
-  <div>I am starting over. I have a better idea But I am trying out my new keyboard!</div>
+  <div class="container">
+    <section class="row">
+      <div class="col-12">
+        Hello world
+      </div>
+    </section>
+  </div>
 </template>
 <!-- <div class="d-flex justify-content-evenly">
   <a href="https://github.com/rsvickers">
