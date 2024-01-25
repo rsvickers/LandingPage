@@ -2,8 +2,7 @@
   <div class="container">
     <section class="row">
       <div class="col-12">
-        Hello world I am currently working on a cool project with unity! Unity is real hard! Tomorrow I am going hard in
-        code!
+
       </div>
     </section>
   </div>
