@@ -2,7 +2,7 @@
   <div class="container">
     <section class="row">
       <div class="col-12">
-
+        I think I am going to change the template
       </div>
     </section>
   </div>
