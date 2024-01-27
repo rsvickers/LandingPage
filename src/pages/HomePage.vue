@@ -2,7 +2,7 @@
   <div class="container">
     <section class="row">
       <div class="col-12">
-        I am sorry Rhys. I need to do better
+        I am sorry Rhys. I need to do better. Starting next week I am going to code more.
       </div>
     </section>
   </div>
