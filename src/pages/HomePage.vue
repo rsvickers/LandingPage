@@ -2,7 +2,8 @@
   <div class="container">
     <section class="row">
       <div class="col-12">
-        Looking for jobs has taken up so much time. But I will do my best to get this done next week.
+        Looking for jobs has taken up so much time. But I will do my best to get this done next week. But I will most
+        likely change the template.
       </div>
     </section>
   </div>
