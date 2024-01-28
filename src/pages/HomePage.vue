@@ -2,7 +2,7 @@
   <div class="container">
     <section class="row">
       <div class="col-12">
-        I may take a small break. I kind of want to continue to write my novel.
+        I may take a small break. I kind of want to continue to write my novel. But I also need a job really bad.
       </div>
     </section>
   </div>
