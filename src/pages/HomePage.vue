@@ -3,7 +3,7 @@
     <section class="row">
       <div class="col-12">
         I may take a small break. I kind of want to continue to write my novel. But I also need a job really bad. I think
-        I may try to do an apex themed project. I may have a small job!
+        I may try to do an apex themed project. I may have a small job! The wifi where I am at is awful though!
       </div>
     </section>
   </div>
